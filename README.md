@@ -1,2 +1,3 @@
 # This is a repository for my UNI projects.
-Containing scripts for each subject.
+Focusing on my End of Career project.
+.
